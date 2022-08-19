@@ -1,0 +1,7 @@
+{
+  "name": "leetcode",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
